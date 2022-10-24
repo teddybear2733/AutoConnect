@@ -1,5 +1,5 @@
 # Project Constraints
-- Highlited below are a few of the project constraints of the AutoCross Project
+Highlited below are a few of the project constraints of the AutoCross Project
 ## Economic
 Econimic limitations are one of the largest factors in this project. With a very limited project budget
 and passsion for the end product to be easily accesible, efficiently creating something for a low cost, whilst maintaining
