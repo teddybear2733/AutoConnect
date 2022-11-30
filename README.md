@@ -8,7 +8,7 @@ A Custom Pi OS for cars
 **Email:** krikorad@mail.uc.edu
 
 ## Faculty Advisor
-John Gallagher
+Prof. John Gallagher
 
 ## Project Description
 Project overview found here -> [Project Description](https://github.com/teddybear2733/AutoConnect/wiki)
