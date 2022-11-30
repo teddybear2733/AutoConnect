@@ -1,0 +1,12 @@
+# Task List (1 member group)
+- Download yocto and install dependiencies
+- Create yocto source file for build
+- Create a standar raspberry pi build to make sure everthing is working fine.
+- Disable different boot parameters and compare boot times
+- Create folder and copy over files for custom raspberry pi layer
+- Use base raspberry pi build to install ecu connection app
+- Test app when connected to ecu, note its performance and characteristics
+- Test audio app when connected to auxillary port, note performance
+- Look into selecting a good audio app for the car to run
+- Look into finding a good car based gui that can be ported to the pi
+- Attempt to add apps to the new gui homepage
