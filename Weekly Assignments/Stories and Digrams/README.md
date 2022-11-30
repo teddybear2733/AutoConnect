@@ -13,4 +13,10 @@ Each of these requirements are individual user stories that are to be completed.
 
 ## Design Diagram Description
 
+Diagram 1 - This diagram shows a very basic overall diagram of how the OS will support audio connections and ECU connections.
+
+Diagram 2 - This diagram shows how the Raspberry Pi will be connected to the ECU and how it will be able to control and recieve data.
+
+Diagram 3 - This diagram shows an example of what the OS UI will appear. it contains spot's for "Apps". These will include the ECU connection software, the Logging tool, and Android Auto for audio connection.
+
 For an indepth review of what each diagram means, please watch this video on their outline [Overview](https://www.youtube.com/watch?v=z9g_g4PwOq4)
