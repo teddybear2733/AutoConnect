@@ -27,7 +27,7 @@ Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/
 
 ## Professional Biographies
 
-[Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
+Armen Krikorian -> [Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
 
 ## Code
 
