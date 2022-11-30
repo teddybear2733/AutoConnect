@@ -2,11 +2,11 @@ AutoConnect Project Requirements
 
 The Following Chart Contains the Requirements List for the AutoConnect Project
 
-For General Project Constraints Refer to [https://github.com/teddybear2733/AutoConnect/blob/main/ProjectConstraits.md](https://github.com/teddybear2733/AutoConnect/blob/main/ProjectConstraits.md) 
+For General Project Constraints Refer to [Constraints](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/ABET/ProjectConstraits.md)
 
 For the technical specifications of the AutoConnect Project, refer to
 
-[https://github.com/teddybear2733/AutoConnect/blob/main/Technical%20Specifications.md](https://github.com/teddybear2733/AutoConnect/blob/main/Technical%20Specifications.md) 
+[Tech Specs](https://github.com/teddybear2733/AutoConnect/blob/main/Project%20Overview/Technical%20Specifications.md) 
 
 
 <table>
