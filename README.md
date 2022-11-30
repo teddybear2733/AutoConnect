@@ -29,7 +29,15 @@ Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/
 
 Armen Krikorian -> [Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
 
+## Budget
+
+There have not been any expenses to date yet
+
 # Appendix 
+
+## Notes
+
+This is a single memeber project so all designs, work, idea and concepts are from just me.
 
 ## Code
 
