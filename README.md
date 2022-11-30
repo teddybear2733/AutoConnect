@@ -25,6 +25,10 @@ Project development breakdown -> [Tasks and Timeline](https://github.com/teddybe
 ## ABET Concers
 Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/ABET)
 
+## Assesment Essay
+
+My assesment essay can be found here [Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
+
 ## Professional Biographies
 
 Armen Krikorian -> [Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
