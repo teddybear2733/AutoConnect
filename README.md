@@ -29,6 +29,8 @@ Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/
 
 Armen Krikorian -> [Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
 
+#Appendix 
+
 ## Code
 
 Since the build files for this project are in the 100s of GB's, only the basic builder code is provided at the moment.
