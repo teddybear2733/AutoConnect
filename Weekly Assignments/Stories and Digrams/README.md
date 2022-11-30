@@ -1,4 +1,11 @@
 ## User stories
+Three original stories
+
+Story #1: As a user I want to be able to control and modify my cars ECU and diagnostic software, so I can tune them.
+
+Story #2: As a user I want a multimedia interface with my car to interact with, so I can listen to music.
+
+Story #3: As a user I want a to record logs of my engine data, so I can save it off to be further analyzed.
 
 User stories are outlined in the Requirements document that can be found here [Requirements](https://github.com/teddybear2733/AutoConnect/blob/main/Project%20Overview/Requirements.md)
 
