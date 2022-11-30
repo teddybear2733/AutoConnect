@@ -24,10 +24,15 @@ Project development breakdown -> [Tasks and Timeline](https://github.com/teddybe
 ## ABET Concers
 Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/ABET)
 
-## Code!!
+## Code
 
-Check out what we've made! -> [Code]()
+Since the build files for this project are in the 100s of GB's, only the basic builder code is provided at the moment.
+Check out what we've made! -> [Code](https://github.com/teddybear2733/AutoConnect/tree/main/Code)
 
+## MileStones
 
+Here are some of the tests that have been completed. A build of base raspian has been made and sucessfully booted. 
+A 3d printed case mount was made and was then mounted into a car just to see what the product would look like. It was then connected to the ECU
+for a simple readout. Pictures can be found at -> [Pictures](https://github.com/teddybear2733/AutoConnect/tree/main/Artifacts)
 
 
