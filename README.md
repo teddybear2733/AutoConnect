@@ -25,9 +25,13 @@ Project development breakdown -> [Tasks and Timeline](https://github.com/teddybe
 ## ABET Concers
 Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/ABET)
 
+## Slideshow
+
+Our design slideshow can be found here -> [Slideshow](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/ABET/Assignment%20%238.pptx)
+and a video of it can be found here -> [Slideshow Video](https://www.youtube.com/watch?v=z9g_g4PwOq4)
 ## Assesment Essay
 
-My assesment essay can be found here [Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
+My assesment essay can be found here -> [Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
 
 ## Professional Biographies
 
