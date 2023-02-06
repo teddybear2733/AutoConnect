@@ -1,12 +1,16 @@
 [submodule "Code/builder/poky"]
 	path = Code/builder/poky
 	url = git://git.yoctoproject.org/poky
+	branch = honister
 [submodule "Code/builder/recipes/meta-openembedded"]
 	path = Code/builder/recipes/meta-openembedded
 	url = git@github.com:openembedded/meta-openembedded.git
+	branch = honister
 [submodule "Code/builder/recipes/meta-qt5"]
 	path = Code/builder/recipes/meta-qt5
 	url = git@github.com:meta-qt5/meta-qt5.git
+	branch = honister
 [submodule "Code/builder/recipes/meta-raspberrypi"]
 	path = Code/builder/recipes/meta-raspberrypi
 	url = git@github.com:agherzan/meta-raspberrypi.git
+	branch = honister
