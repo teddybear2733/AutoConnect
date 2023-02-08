@@ -14,3 +14,12 @@
 	path = Code/builder/recipes/meta-raspberrypi
 	url = git@github.com:agherzan/meta-raspberrypi.git
 	branch = honister
+[submodule "Code/builder/recipes/meta-96boards"]
+	path = Code/builder/recipes/meta-96boards
+	url = git@github.com:96boards/meta-96boards.git
+[submodule "Code/builder/recipes/openembedded-core"]
+	path = Code/builder/recipes/openembedded-core
+	url = git://git.openembedded.org/openembedded-core
+[submodule "Code/builder/recipes/meta-java"]
+	path = Code/builder/recipes/meta-java
+	url = git@github.com:meta-java/meta-java.git
