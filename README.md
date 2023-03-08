@@ -11,7 +11,7 @@ A Custom Pi OS for cars
 Prof. John Gallagher
 
 # Getting Started
-## Go here to find setup directions -> [UserDocs](https://github.com/teddybear2733/AutoConnect/wiki)
+Go here to find setup directions -> [UserDocs](https://github.com/teddybear2733/AutoConnect/wiki)
 
 ## Project Description
 Project overview found here -> [Project Description](https://github.com/teddybear2733/AutoConnect/wiki)
