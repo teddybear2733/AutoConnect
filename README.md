@@ -2,7 +2,7 @@
 A Custom Pi OS for cars
 
 ## Getting Started
-Go here to find setup directions -> [UserDocs](https://github.com/teddybear2733/AutoConnect/wiki)
+Go here to find setup directions -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki)
 
 ## Team Name: AutoConnect
 
