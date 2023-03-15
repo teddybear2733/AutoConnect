@@ -5,15 +5,28 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.label import Label
 from kivy.config import Config
 from kivy.core.window import Window
+from kivy.uix.screenmanager import ScreenManager, Screen, NoTransition
+
 import os
 import subprocess
 
+class MainMenu(Screen):
+    pass
+
+class Settings(Screen):
+    pass
+
 class AutoConnect(App):
     def build(self):
+
+        self.sm = ScreenManager()
+
         wPadding = (Window.size[0] / 16)
-        wSpacing = (Window.size[0] / 16)
-        widget_size_x = (Window.size[1] - (2 * wPadding) - wSpacing) / 2
-        widget_size_y = (Window.size[1] - (2 * wPadding) - wSpacing) / 2
+        wSpacingx = (Window.size[1] / 10.66) + (wPadding / 1.5)
+        wSpacingy = (Window.size[0] / 16)
+        
+        widget_size_x = (Window.size[1] - (2 * wPadding) - wSpacingx) / 2
+        widget_size_y = (Window.size[1] - (2 * wPadding) - wSpacingx) / 2
 
         root_widget = BoxLayout(orientation='vertical', padding=wPadding)
         
@@ -37,11 +50,16 @@ class AutoConnect(App):
 
         root_widget.add_widget(button_grid)
 
-
-        return root_widget
+        self.sm.add_widget(root_widget)
+        return self.sm
+    
+    def change_screen():
+        pass
     
     def open_tuner_studio(self, event):
-        os.system("open /Applications/TunerStudio_MS.app/")
+        self.sm.switch_to()
+        #os.system("open /Applications/TunerStudio_MS.app/")
+         
 
     def open_mglv(self, event):
         #print("hi")
@@ -49,4 +67,5 @@ class AutoConnect(App):
         #os.system("open /Applications/MegaLogViewerHD.app/")
 
 Window.fullscreen = True
+#Window.maximize()
 AutoConnect().run()

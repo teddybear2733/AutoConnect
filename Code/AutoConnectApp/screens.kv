@@ -1,0 +1,94 @@
+#:kivy 2.0.0
+<MenuScreen>:
+    canvas.before:
+        Color:
+            rgba: (30/255, 30/255, 30/255, 255/255)
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    BoxLayout:
+        orientation: 'vertical'
+        padding: root.wPadding
+        GridLayout:
+            spacing: [root.wSpacingx, root.wSpacingy]
+            cols: 3
+            RoundedButton:
+                background_normal: 'EFI2.png'
+                on_press: root.open_tuner_studio()
+            RoundedButton:
+                background_normal: 'PE.png'
+                on_press: root.open_tuner_studio()
+            RoundedButton:
+                background_normal: 'MLGV2.png'
+                on_press: root.open_tuner_studio()
+            RoundedButton:
+                background_normal: 'AndroidAuto.png'
+                on_press: root.open_tuner_studio()
+            RoundedButton:
+                background_normal: 'Audio.png'
+                on_press: root.open_tuner_studio()
+            RoundedButton:
+                background_normal: 'Settings.png'
+                on_release: 
+                    root.manager.current = 'Settings'
+                    root.manager.transition.direction = 'left'
+<SettingsScreen>:
+    canvas.before:
+        Color:
+            #rgba: (30/255, 30/255, 30/255, 255/255)
+            rgba: root.bckColor
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    AnchorLayout:
+        padding: 50
+        anchor_x: 'center'
+        anchor_y: 'top'
+        Label:
+            font_size: self.height
+            text: 'Settings'
+            size_hint: None, None
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 5
+        Label:
+            size_hint: (.3, .1)
+            text: 'Light Mode'
+        Switch:
+            size_hint: (.3, .1)
+            id: LightModeSwitch
+            on_touch_move: 
+                root.bckColor = (0,0,0,0)
+                root.changeColor(root.bckColor)
+        Label:
+            size_hint: (.3, .1)
+            text: 'TBD'
+        Switch:
+            size_hint: (.3, .1)
+            id: switch
+        Label:
+            size_hint: (.3, .1)
+            text: 'TBD'
+        Switch:
+            size_hint: (.3, .1)
+            id: switch
+        
+        Label:
+            text: ''
+            size_hint: (.3, .7)
+        Button:
+            size_hint: (.3, .3)
+            text: 'Back to menu'
+            on_release: 
+                root.manager.current = 'MainMenu'
+                root.manager.transition.direction = 'right'
+            
+<RoundedButton@Button>
+    canvas.before:
+        Color:
+            rgba: (37/255, 37/255, 38/255, 255/255)
+        RoundedRectangle:
+            size: self.size
+            pos: self.pos
+            radius: [58]
+
