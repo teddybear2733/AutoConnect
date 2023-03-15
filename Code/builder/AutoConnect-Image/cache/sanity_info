@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/teddy/Documents/AutoConnect/Code/builder/AutoConnect-Image/tmp
+SSTATE_DIR /home/teddy/Documents/AutoConnect/Code/builder/AutoConnect-Image/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
