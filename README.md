@@ -7,8 +7,6 @@ A Custom OS for Automotive Enthusiasts
 ## Getting Started
 Go here to find setup directions -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki/User-Guide/)
 
-## Team Name: AutoConnect
-
 ## The Team
 ### Armen Krikorian
 **Email:** krikorad@mail.uc.edu
