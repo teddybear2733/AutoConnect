@@ -1,5 +1,5 @@
 # AutoConnect
-A Custom Pi OS for cars
+A Custom OS for Automotive Enthusiasts
 
 ![Expo Poster](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/AutoConnectExpoPoster.png)
 
