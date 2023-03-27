@@ -1,7 +1,7 @@
 # AutoConnect
 A Custom Pi OS for cars
 
-![Expo Poster](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/ExpoPoster.png)
+![Expo Poster](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/AutoConnectExpoPoster.png)
 
 ## Getting Started
 Go here to find setup directions -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki)
