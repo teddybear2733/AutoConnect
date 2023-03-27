@@ -4,7 +4,7 @@ A Custom OS for Automotive Enthusiasts
 ![Expo Poster](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/AutoConnectExpoPoster.png)
 
 ## Getting Started
-Go here to find setup directions -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki)
+Go here to find setup directions -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki/User-Guide/)
 
 ## Team Name: AutoConnect
 
