@@ -19,14 +19,11 @@ Project overview found here -> [Project Description](https://github.com/teddybea
 ## Technical Specifications
 General technical information here -> [Tech Specs](https://github.com/teddybear2733/AutoConnect/blob/main/Project%20Overview/Technical%20Specifications.md)
 
-## Stories and Diagrams
-Stories and Diagrams found here -> [Stories and Diagrams](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/Stories%20and%20Digrams)
+## Test Plan
+Test Plan found here -> [Test Plan](https://github.com/teddybear2733/AutoConnect/wiki/Test-Plan)
 
-## Tasks and Timeline
-Project development breakdown -> [Tasks and Timeline](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/Tasks%20and%20Timeline)
-
-## ABET Concers
-Read more on our challenges -> [ABET Concerns](https://github.com/teddybear2733/AutoConnect/tree/main/Weekly%20Assignments/ABET)
+## User Guide
+User Guide -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki/User-Guide)
 
 ## Slideshow
 
@@ -34,15 +31,22 @@ Our design slideshow can be found here -> [Slideshow](https://github.com/teddybe
 and a video of it can be found here -> [Slideshow Video](https://www.youtube.com/watch?v=z9g_g4PwOq4)
 ## Assesment Essay
 
-My assesment essay can be found here -> [Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
+My Spring assesment essay can be found here -> [Spring Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
+
+My Fall as assesment essay can be found here -> [Fall Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/SelfAssesment.md)
 
 ## Professional Biographies
 
 Armen Krikorian -> [Biography](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Biographies/ArmenKrikorian.md)
 
-## Budget
+## Hours Spent
+Since this was a one person project, 100% of the work was done by me. This totaled to around 400 hours of work for
+researching, planning, building, demoing and writing up develiverables.
 
-There have not been any expenses to date yet
+## Expenses
+
+There have not been any expenses to date yet.
+Did recieve a donated raspberry pi 4 for testing from John Gallagher
 
 # Appendix 
 
