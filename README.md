@@ -27,7 +27,7 @@ User Guide -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki/Use
 
 ## Slideshow
 
-Our design slideshow can be found here -> [Slideshow](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/ABET/Assignment%20%238.pptx)
+Our design slideshow can be found here -> [Slideshow](https://docs.google.com/presentation/d/1qzSOgZkb-fy43teJCtTRujOqqgCJsJbaz6tajJazxI4/edit?usp=sharing)
 and a video of it can be found here -> [Slideshow Video](https://www.youtube.com/watch?v=z9g_g4PwOq4)
 ## Assesment Essay
 
