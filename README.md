@@ -29,6 +29,7 @@ User Guide -> [User Guide](https://github.com/teddybear2733/AutoConnect/wiki/Use
 
 Our design slideshow can be found here -> [Slideshow](https://docs.google.com/presentation/d/1qzSOgZkb-fy43teJCtTRujOqqgCJsJbaz6tajJazxI4/edit?usp=sharing)
 and a video of it can be found here -> [Slideshow Video](https://www.youtube.com/watch?v=z9g_g4PwOq4)
+If you want to see how it works, you can watch this [Demo Video](https://drive.google.com/file/d/1Z4kYn6qLBFE1ojjsyVttSjnwMxoQVtBx/view?usp=sharing)
 ## Assesment Essay
 
 My Spring assesment essay can be found here -> [Spring Essay](https://github.com/teddybear2733/AutoConnect/blob/main/Weekly%20Assignments/Capstone%201.pdf)
